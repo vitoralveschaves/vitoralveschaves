@@ -8,7 +8,7 @@ Sou desenvolvedor fullstack com experiência em Java, Spring Boot e Angular. Ven
 
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoralveschaves&show_icons=true&theme=dracula)
 
-### Technologies that I usually use in my daily life
+### Tecnologias que utilizo:
 
 <div style="display:inline_block">
     <br />
@@ -23,7 +23,7 @@ Sou desenvolvedor fullstack com experiência em Java, Spring Boot e Angular. Ven
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
 </div><br />
 
-### Tools that I usually use in my daily life
+### Ferramentas que utilizo:
 
 <div style="display:inline_block">
     <br />
