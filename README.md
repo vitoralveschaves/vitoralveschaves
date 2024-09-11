@@ -1,15 +1,8 @@
-### HI! I'am Vitor Alves
+### Olá! Sou Vitor Alves
 
 <br>
 
-Sou desenvolvedor fullstack com experiência em Java, Spring Boot e Angular. Venho estudando desenvolvimento fullstack desde 2022, aprofundando-me nas tecnologias que impulsionam aplicações robustas e escaláveis. Atualmente, sou estudante de Engenharia de Computação no Centro Universitário Inta (UNINTA).
-
-Competências Técnicas:
-
-Backend: Java, Spring Boot, JUnit, Kafka, RabbitMQ, Docker
-Frontend: TypeScript, Angular, TailwindCSS
-
-Estou sempre em busca de aprimorar minhas habilidades e explorar novas tecnologias para criar soluções inovadoras e eficientes.
+Sou desenvolvedor fullstack com experiência em Java, Spring Boot e Angular. Venho estudando desenvolvimento fullstack desde 2022, aprofundando-me nas tecnologias que impulsionam aplicações robustas e escaláveis.
 
 <br>
 
