@@ -2,7 +2,7 @@
 
 <br>
 
-Sou desenvolvedor fullstack com experiência em Java, Spring Boot e Angular. Venho estudando desenvolvimento fullstack desde 2022, aprofundando-me nas tecnologias que impulsionam aplicações robustas e escaláveis.
+Sou desenvolvedor fullstack com experiência em Java, Spring Boot e React. Venho estudando desenvolvimento web desde 2022, aprofundando-me nas tecnologias que impulsionam aplicações robustas e escaláveis.
 
 <br>
 
@@ -14,7 +14,7 @@ Sou desenvolvedor fullstack com experiência em Java, Spring Boot e Angular. Ven
     <br />
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring boot"/>
-    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
