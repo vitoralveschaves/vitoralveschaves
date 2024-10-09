@@ -1,5 +1,5 @@
 ### Olá! Sou Vitor Alves
-Sou desenvolvedor fullstack com experiência em Java, Spring Boot e Angular. Venho aprimorando minhas habilidades no desenvolvimento web desde 2022, aprofundando-me em tecnologias que impulsionam aplicações robustas e escaláveis.
+Sou desenvolvedor backend com experiência em Java, Spring Boot e Angular no frontend. Venho aprimorando minhas habilidades no desenvolvimento web desde 2022, aprofundando-me em tecnologias que impulsionam aplicações robustas e escaláveis.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoralveschaves/)
 <br>
