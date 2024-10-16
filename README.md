@@ -1,5 +1,5 @@
 ### Olá! Sou Vitor Alves
-Sou desenvolvedor backend com experiência em Java, Spring Boot e Angular no frontend. Venho aprimorando minhas habilidades no desenvolvimento web desde 2022, aprofundando-me em tecnologias que impulsionam aplicações robustas e escaláveis.
+Sou desenvolvedor backend com experiência em Java, Spring Boot e React no frontend. Venho aprimorando minhas habilidades no desenvolvimento web desde 2022, aprofundando-me em tecnologias que impulsionam aplicações robustas e escaláveis.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoralveschaves/)
 <br>
@@ -18,7 +18,6 @@ Sou desenvolvedor backend com experiência em Java, Spring Boot e Angular no fro
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
     <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rabbitmq"/>
     <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="kafka"/>
-    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
 </div><br />
